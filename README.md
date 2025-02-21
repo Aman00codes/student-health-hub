@@ -80,13 +80,6 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 <div align="center">
   <img src="docs/images/dashboard_img.png" alt="Dashboard" width="800"/>
   <p><em>Comprehensive overview of your health status and upcoming appointments</em></p>
-  
-  #### Key Features:
-  - 📅 **Quick Stats**: Upcoming appointments, pending documents, health score, and alerts
-  - 📊 **Recent Activity**: Track your latest health-related actions
-  - 🤖 **AI Health Insights**: Personalized health trends and recommendations
-  - 📊 **Health Score**: Real-time health status monitoring (92% in the example)
-  - 🔔 **Smart Alerts**: Important notifications and reminders
 </div>
 
 ### 📊 Health Records

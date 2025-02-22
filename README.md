@@ -1,7 +1,7 @@
 # 🏥 StudentHealthHub - AI-Powered Student Healthcare Management System
 
 <div align="center">
-  <img src="docs/images/logo.png" alt="StudentHealthHub Logo" width="200"/>
+  <img src="./docs/images/svgviewer-output.svg" alt="StudentHealthHub Logo" width="200"/>
   <p><em>Revolutionizing Student Healthcare with AI and Blockchain</em></p>
   
   <h2>🏆 Fluxus 2025 Hackathon Submission</h2>
@@ -151,40 +151,25 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 
 ## 👨‍💻 Team
 
-### Core Team Members
+### Team Roles
 
-#### Rohan Singh - Frontend & AI Lead
-- 💻 **Frontend Development**
-  - Designed and implemented the responsive UI using Next.js and TailwindCSS
-  - Created interactive dashboard components and data visualizations
-  - Built real-time notification system and health analytics dashboard
+### Member 1: Rohan Singh 👨‍💻
+- **Project Manager**
+  - Oversees the project, ensuring timelines and goals are met.
+- **Frontend Developer**
+  - Responsible for building the basic codebase and ensuring it runs smoothly.
 
-- 🤖 **AI Integration**
-  - Developed symptom analysis using Natural Language Processing
-  - Implemented mental health pattern recognition
-  - Created predictive health analytics models
+### Member 2: Rudra Pratap Singh 🖥️
+- **Backend Developer**
+  - Focuses on server-side logic, database management, and API development.
+- **DevOps Engineer**
+  - Manages build processes, machine learning models, and deployment.
 
-#### Rudra Pratap Singh - Backend & DevOps Lead
-- 🖥️ **Backend Architecture**
-  - Designed the FastAPI backend infrastructure
-  - Implemented JWT authentication and security
-  - Set up PostgreSQL database and Redis caching
-
-- 🚀 **DevOps & Infrastructure**
-  - Managed deployment pipelines and CI/CD
-  - Configured cloud infrastructure on AWS
-  - Implemented monitoring and logging systems
-
-#### Raj Bardhan - Blockchain & Security Lead
-- ⛓️ **Blockchain Development**
-  - Developed smart contracts for health records
-  - Implemented zero-knowledge proofs
-  - Created the blockchain verification system
-
-- 🔒 **Security Architecture**
-  - Designed HIPAA-compliant data handling
-  - Implemented end-to-end encryption
-  - Set up authentication and authorization
+### Member 3: Raj Bardhan 🎨
+- **UI/UX Designer**
+  - Designs the overall look and feel of the application. 
+- **Quality Assurance (QA) Tester**
+  - Ensures the application is bug-free and meets the specified requirements.
 
 ### Contact Information
 - **GitHub Repository**: [student-health-hub](https://github.com/student-health-hub)
@@ -219,24 +204,24 @@ flowchart TB
         S3["File Storage\n(AWS S3)"] 
     end
 
-    UI --> State
-    State --> API
-    API --> FastAPI
-    FastAPI --> Auth
-    FastAPI --> Cache
-    FastAPI --> AI
-    FastAPI --> Data
+    UI -->|Manages State| State
+    State -->|Requests Data| API
+    API -->|Handles Requests| FastAPI
+    FastAPI -->|Validates| Auth
+    FastAPI -->|Caches Responses| Cache
+    FastAPI -->|Processes Data| AI
+    FastAPI -->|Interacts with| Data
     
-    TF --> NLP
-    SKLearn --> NLP
+    TF -->|Trains on| NLP
+    SKLearn -->|Analyzes Data| NLP
     
-    DB --> Blockchain
-    DB --> S3
+    DB -->|Stores Data| Blockchain
+    DB -->|Stores Files| S3
 
-    style Client fill:#e1f5fe,stroke:#01579b
-    style Server fill:#f3e5f5,stroke:#4a148c
-    style AI fill:#f1f8e9,stroke:#33691e
-    style Data fill:#fff3e0,stroke:#e65100
+    style Client fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    style Server fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style AI fill:#f1f8e9,stroke:#33691e,stroke-width:2px
+    style Data fill:#fff3e0,stroke:#e65100,stroke-width:2px
 ```
 
 ### Component Details

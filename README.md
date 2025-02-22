@@ -369,8 +369,8 @@ We welcome contributions! Check out our [Contributing Guidelines](CONTRIBUTING.m
 
 ## 🎮 Demo
 
-- **Live Demo**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app)
-- **Video Demo**: [Watch on YouTube](youtube-link)
+- **Live Demo**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app) [Not yet Deployed]
+- **Video Demo**: [Watch on YouTube](youtube-link) [NA]
 
 ## 🌟 Unique Selling Points
 
@@ -407,7 +407,7 @@ We welcome contributions! Check out our [Contributing Guidelines](CONTRIBUTING.m
 ### 3. Impact & Scalability (25 points)
 - 🏫 Applicable to multiple institutions
 - 📈 Scalable architecture
-- 🌍 Social impact
+- 🌍 Social Impact
 
 ### 4. User Experience (20 points)
 - 🎨 Intuitive design
@@ -445,14 +445,6 @@ graph TD
 
 - Thanks to the Fluxus 2025 organizing team at IIT Indore
 - Special thanks to our mentors and judges
-
-## 📞 Contact
-
-For any queries regarding this hackathon submission:
-- **Developer**: Rohan Singh
-- **Email**: rohan.singh@studenthealthhub.tech
-- **LinkedIn**: [Rohan Singh](linkedin-link)
-- **GitHub**: [github-profile](github-link)
 
 ---
 

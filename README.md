@@ -152,6 +152,88 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 - 📝 Natural Language Processing
 - 👁️ Computer Vision
 
+## 💻 System Architecture
+
+```mermaid
+flowchart TB
+    subgraph Client["📱 Client Layer"]
+        UI["UI Components\n(Next.js + React)"] 
+        State["State Management\n(React Context)"] 
+        API["API Integration\n(Axios)"] 
+    end
+
+    subgraph Server["🖥️ Server Layer"]
+        FastAPI["FastAPI Backend"] 
+        Auth["Authentication\n(JWT)"] 
+        Cache["Cache Layer\n(Redis)"] 
+    end
+
+    subgraph AI["🤖 AI Layer"]
+        TF["TensorFlow Models"] 
+        SKLearn["Scikit-learn\nAnalytics"] 
+        NLP["NLP Processing"] 
+    end
+
+    subgraph Data["💾 Data Layer"]
+        DB[("PostgreSQL\nDatabase")] 
+        Blockchain["Ethereum\nBlockchain"] 
+        S3["File Storage\n(AWS S3)"] 
+    end
+
+    UI --> State
+    State --> API
+    API --> FastAPI
+    FastAPI --> Auth
+    FastAPI --> Cache
+    FastAPI --> AI
+    FastAPI --> Data
+    
+    TF --> NLP
+    SKLearn --> NLP
+    
+    DB --> Blockchain
+    DB --> S3
+
+    style Client fill:#e1f5fe,stroke:#01579b
+    style Server fill:#f3e5f5,stroke:#4a148c
+    style AI fill:#f1f8e9,stroke:#33691e
+    style Data fill:#fff3e0,stroke:#e65100
+```
+
+### Component Details
+
+<details>
+<summary><b>📱 Client Layer</b></summary>
+
+- **UI Components**: Built with Next.js and React for dynamic rendering
+- **State Management**: React Context for global state
+- **API Integration**: Axios for RESTful communication
+</details>
+
+<details>
+<summary><b>🖥️ Server Layer</b></summary>
+
+- **FastAPI Backend**: High-performance Python web framework
+- **Authentication**: JWT-based secure authentication
+- **Cache Layer**: Redis for performance optimization
+</details>
+
+<details>
+<summary><b>🤖 AI Layer</b></summary>
+
+- **TensorFlow Models**: Health prediction and analysis
+- **Scikit-learn**: Data analytics and pattern recognition
+- **NLP Processing**: Natural language understanding for health records
+</details>
+
+<details>
+<summary><b>💾 Data Layer</b></summary>
+
+- **PostgreSQL**: Primary database for structured data
+- **Blockchain**: Ethereum for immutable health records
+- **File Storage**: AWS S3 for document storage
+</details>
+
 ## 🚀 Setup Instructions
 
 <details>

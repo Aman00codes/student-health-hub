@@ -193,31 +193,38 @@ BLOCKCHAIN_NODE_URL=your_ethereum_node
 
 ### Core Team Members
 
-#### Rohan Singh - Full Stack & AI Developer
-- 💻 **Technical Contributions**
+#### Rohan Singh - Frontend & AI Lead
+- 💻 **Frontend Development**
   - Designed and implemented the responsive UI using Next.js and TailwindCSS
-  - Developed the AI-powered health prediction system using TensorFlow
-  - Created the FastAPI backend infrastructure with PostgreSQL and Redis
-  - Implemented real-time notifications and health analytics dashboard
+  - Created interactive dashboard components and data visualizations
+  - Built real-time notification system and health analytics dashboard
 
-- 🤖 **AI/ML Features**
-  - Symptom analysis system using Natural Language Processing
-  - Mental health pattern recognition and recommendations
-  - Health trend analysis and predictive analytics
-  - Real-time health score calculation
+- 🤖 **AI Integration**
+  - Developed symptom analysis using Natural Language Processing
+  - Implemented mental health pattern recognition
+  - Created predictive health analytics models
 
-#### Rudra Pratap Singh - Blockchain & Security Expert
-- ⛓️ **Blockchain Implementation**
-  - Developed smart contracts for secure health record management
-  - Implemented zero-knowledge proofs for privacy protection
-  - Created the blockchain verification system for medical records
-  - Set up the Ethereum network integration
+#### Rudra Pratap Singh - Backend & DevOps Lead
+- 🖥️ **Backend Architecture**
+  - Designed the FastAPI backend infrastructure
+  - Implemented JWT authentication and security
+  - Set up PostgreSQL database and Redis caching
 
-- 🔒 **Security & Infrastructure**
-  - Designed HIPAA-compliant data handling systems
-  - Implemented end-to-end encryption for sensitive data
-  - Created secure backup and recovery protocols
-  - Set up authentication and authorization systems
+- 🚀 **DevOps & Infrastructure**
+  - Managed deployment pipelines and CI/CD
+  - Configured cloud infrastructure on AWS
+  - Implemented monitoring and logging systems
+
+#### Aman Kumar - Blockchain & Security Lead
+- ⛓️ **Blockchain Development**
+  - Developed smart contracts for health records
+  - Implemented zero-knowledge proofs
+  - Created the blockchain verification system
+
+- 🔒 **Security Architecture**
+  - Designed HIPAA-compliant data handling
+  - Implemented end-to-end encryption
+  - Set up authentication and authorization
 
 ### Contact Information
 - **Institution**: Indian Institute of Technology (IIT), Indore

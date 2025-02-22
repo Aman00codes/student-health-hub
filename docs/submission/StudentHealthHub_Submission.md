@@ -190,10 +190,39 @@ BLOCKCHAIN_NODE_URL=your_ethereum_node
 - Community health features
 
 ## 👥 Team
-[Your Name]
-- Role: Full Stack Developer
-- Institution: IIT Indore
-- Contact: [Your Email]
+
+### Core Team Members
+
+#### Rohan Singh - Full Stack & AI Developer
+- 💻 **Technical Contributions**
+  - Designed and implemented the responsive UI using Next.js and TailwindCSS
+  - Developed the AI-powered health prediction system using TensorFlow
+  - Created the FastAPI backend infrastructure with PostgreSQL and Redis
+  - Implemented real-time notifications and health analytics dashboard
+
+- 🤖 **AI/ML Features**
+  - Symptom analysis system using Natural Language Processing
+  - Mental health pattern recognition and recommendations
+  - Health trend analysis and predictive analytics
+  - Real-time health score calculation
+
+#### Rudra Pratap Singh - Blockchain & Security Expert
+- ⛓️ **Blockchain Implementation**
+  - Developed smart contracts for secure health record management
+  - Implemented zero-knowledge proofs for privacy protection
+  - Created the blockchain verification system for medical records
+  - Set up the Ethereum network integration
+
+- 🔒 **Security & Infrastructure**
+  - Designed HIPAA-compliant data handling systems
+  - Implemented end-to-end encryption for sensitive data
+  - Created secure backup and recovery protocols
+  - Set up authentication and authorization systems
+
+### Contact Information
+- **Institution**: Indian Institute of Technology (IIT), Indore
+- **Project Repository**: [student-health-hub](https://github.com/student-health-hub)
+- **Demo Website**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app)
 
 ## 📄 API Documentation
 

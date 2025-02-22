@@ -152,6 +152,47 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 - 📝 Natural Language Processing
 - 👁️ Computer Vision
 
+## 👨‍💻 Team
+
+### Core Team Members
+
+#### Rohan Singh - Full Stack & AI Developer
+- 💻 **Frontend Development**
+  - Designed and implemented the responsive UI using Next.js and TailwindCSS
+  - Created interactive dashboard components and data visualizations
+  - Implemented real-time notifications and updates
+
+- 🤖 **AI/ML Integration**
+  - Developed the symptom analysis system using NLP
+  - Implemented health prediction models with TensorFlow
+  - Created the mental health analytics dashboard
+
+- 🔐 **Backend Architecture**
+  - Designed the FastAPI backend infrastructure
+  - Implemented JWT authentication and security measures
+  - Set up PostgreSQL database and Redis caching
+
+#### [Teammate Name] - Blockchain & Security Expert
+- ⛓️ **Blockchain Implementation**
+  - Developed smart contracts for health record management
+  - Implemented zero-knowledge proofs for privacy
+  - Created the blockchain verification system
+
+- 🔒 **Security Architecture**
+  - Designed the secure data storage system
+  - Implemented HIPAA-compliant data handling
+  - Set up encryption for sensitive medical data
+
+- 💻 **Backend Development**
+  - Assisted in API development and testing
+  - Implemented blockchain integration endpoints
+  - Created data backup and recovery systems
+
+### Contact Information
+- **GitHub Repository**: [student-health-hub](https://github.com/student-health-hub)
+- **Project Email**: team@studenthealthhub.com
+- **Demo Website**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app)
+
 ## 💻 System Architecture
 
 ```mermaid

@@ -153,23 +153,11 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 
 ### Team Roles
 
-### Member 1: Rohan Singh 👨‍💻
-- **Project Manager**
-  - Oversees the project, ensuring timelines and goals are met.
-- **Frontend Developer**
-  - Responsible for building the basic codebase and ensuring it runs smoothly.
-
-### Member 2: Rudra Pratap Singh 🖥️
-- **Backend Developer**
-  - Focuses on server-side logic, database management, and API development.
-- **DevOps Engineer**
-  - Manages build processes, machine learning models, and deployment.
-
-### Member 3: Raj Bardhan 🎨
-- **UI/UX Designer**
-  - Designs the overall look and feel of the application. 
-- **Quality Assurance (QA) Tester**
-  - Ensures the application is bug-free and meets the specified requirements.
+| Member Name           | Role(s)                                    | Profile Link                          |
+|----------------------|--------------------------------------------|--------------------------------------|
+| Rohan Singh          | Project Manager, Frontend Developer        | [GitHub Profile](https://github.com/Aman00codes) |
+| Rudra Pratap Singh   | Backend Developer, DevOps Engineer          | [GitHub Profile](https://github.com/Rudra00codes) |
+| Raj Bardhan          | UI/UX Designer, Quality Assurance Tester   | [GitHub Profile](https://github.com/RAj2027) |
 
 ### Contact Information
 - **GitHub Repository**: [student-health-hub](https://github.com/student-health-hub)

@@ -11,9 +11,11 @@
     <a href="#-hackathon-details">🎯 Hackathon</a> |
     <a href="#-our-solution">💡 Solution</a> |
     <a href="#-key-features">🌟 Features</a> |
-    <a href="#-technology-stack">🛠️ Tech Stack</a> |
+    <a href="#️-technology-stack">🛠️ Tech Stack</a> |
     <a href="#-team">👨‍💻 Team</a> |
     <a href="#-setup-instructions">🚀 Setup</a>
+  </p>
+</div>
   </p>
 </div>
 </div>

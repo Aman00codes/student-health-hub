@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="90" fill="#4F46E5" />
+    
+    <!-- Cross Symbol -->
+    <rect x="85" y="45" width="30" height="110" rx="15" fill="white"/>
+    <rect x="45" y="85" width="110" height="30" rx="15" fill="white"/>
+    
+    <!-- Heart Shape -->
+    <path d="M100,140 
+             C90,130 70,110 70,95
+             C70,80 80,70 95,70
+             C105,70 100,75 100,75
+             C100,75 95,70 105,70
+             C120,70 130,80 130,95
+             C130,110 110,130 100,140
+             Z" 
+          fill="#EF4444" stroke="white" stroke-width="2"/>
+    
+    <!-- AI Circuit Lines -->
+    <path d="M30,100 Q50,50 100,50 T170,100" 
+          fill="none" stroke="#A5B4FC" stroke-width="4" stroke-linecap="round"/>
+    <path d="M30,100 Q50,150 100,150 T170,100" 
+          fill="none" stroke="#A5B4FC" stroke-width="4" stroke-linecap="round"/>
+          
+    <!-- Dots -->
+    <circle cx="30" cy="100" r="4" fill="#A5B4FC"/>
+    <circle cx="100" cy="50" r="4" fill="#A5B4FC"/>
+    <circle cx="170" cy="100" r="4" fill="#A5B4FC"/>
+    <circle cx="100" cy="150" r="4" fill="#A5B4FC"/>
+</svg>

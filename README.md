@@ -74,7 +74,7 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 
 ### 🎯 Dashboard
 <div align="center">
-  <img src="docs/images/dashboard.png" alt="Dashboard" width="800"/>
+  <img src="docs/images/dashboard_img.png" alt="Dashboard" width="800"/>
   <p><em>Comprehensive overview of your health status and upcoming appointments</em></p>
   
   #### Key Features:
@@ -87,25 +87,28 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 
 ### 📊 Health Records
 <div align="center">
-  <img src="docs/images/health-records.png" alt="Health Records" width="800"/>
+  <img src="docs/images/health_records_img.png" alt="Health Records" width="800"/>
   <p><em>Secure and organized access to your medical history</em></p>
 </div>
 
 ### 📅 Appointments
 <div align="center">
-  <img src="docs/images/appointments.png" alt="Appointments" width="800"/>
+  <img src="docs/images/appointment_img.png" alt="Appointments" width="800"/>
   <p><em>Easy appointment scheduling and management</em></p>
 </div>
 
 ### 🧠 Mental Health Tracking
 <div align="center">
-  <img src="docs/images/mental-health.png" alt="Mental Health" width="800"/>
+  <img src="docs/images/mental_health_tracker_img.png" alt="Mental Health" width="800"/>
   <p><em>Track and monitor your mental well-being with AI-powered insights</em></p>
+  
+  <img src="docs/images/mental_health_tracker_img2.png" alt="Mental Health Analytics" width="800"/>
+  <p><em>Advanced analytics and mood tracking visualization</em></p>
 </div>
 
 ### 👤 Profile Management
 <div align="center">
-  <img src="docs/images/profile.png" alt="Profile" width="800"/>
+  <img src="docs/images/profile_img.png" alt="Profile" width="800"/>
   <p><em>Secure profile management and preferences</em></p>
 </div>
 

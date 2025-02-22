@@ -78,7 +78,7 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 
 ### 🎯 Dashboard
 <div align="center">
-  <img src="docs/images/dashboard_img.png" alt="Dashboard" width="800"/>
+  <img src="./docs/images/dashboard_img.png" alt="Dashboard" width="800"/>
   <p><em>Comprehensive overview of your health status and upcoming appointments</em></p>
 </div>
 

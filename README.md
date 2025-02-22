@@ -8,12 +8,14 @@
   <h3>Indian Institute of Technology (IIT), Indore</h3>
   
   <p>
-    <a href="#team">👥 Team</a> |
-    <a href="#demo">🎮 Demo</a> |
-    <a href="#features">✨ Features</a> |
-    <a href="#tech-stack">🛠️ Tech Stack</a> |
-    <a href="#installation">⚙️ Setup</a>
+    <a href="#-hackathon-details">🎯 Hackathon</a> |
+    <a href="#-our-solution">💡 Solution</a> |
+    <a href="#-key-features">🌟 Features</a> |
+    <a href="#-technology-stack">🛠️ Tech Stack</a> |
+    <a href="#-team">👨‍💻 Team</a> |
+    <a href="#-setup-instructions">🚀 Setup</a>
   </p>
+</div>
 </div>
 
 ## 🎯 Hackathon Details

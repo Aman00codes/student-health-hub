@@ -160,9 +160,9 @@ StudentHealthHub is an innovative healthcare management system that leverages AI
 | Raj Bardhan          | UI/UX Designer, Quality Assurance Tester   | [GitHub Profile](https://github.com/RAj2027) |
 
 ### Contact Information
-- **GitHub Repository**: [student-health-hub](https://github.com/student-health-hub)
-- **Project Email**: team@studenthealthhub.com
-- **Demo Website**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app)
+- **GitHub Repository**: [student-health-hub](https://github.com/Aman00codes/student-health-hub?tab=readme-ov-file)
+- **Project Email**: rudra17122005@gmail.com (Temporary)
+- **Demo Website**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app) (Not yet Deployed)
 
 ## 💻 System Architecture
 

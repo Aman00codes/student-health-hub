@@ -360,13 +360,6 @@ We welcome contributions! Check out our [Contributing Guidelines](CONTRIBUTING.m
 
 [MIT License](LICENSE)
 
-## 👥 Team
-
-- **Rohan Singh** - Full Stack Developer & Team Lead
-- **[Team Member 2]** - AI/ML Specialist
-- **[Team Member 3]** - UI/UX Designer
-- **[Team Member 4]** - Blockchain Developer
-
 ## 🎮 Demo
 
 - **Live Demo**: [https://student-health-hub.vercel.app](https://student-health-hub.vercel.app) [Not yet Deployed]
@@ -436,15 +429,10 @@ graph TD
 - **Blockchain**: Ethereum, Smart Contracts
 </details>
 
-### Achievements in Fluxus 2025
-- 🥇 Best Healthcare Solution
-- 🌟 Most Innovative Use of AI
-- ⭐ Best Technical Implementation
 
 ## 🙏 Acknowledgments
 
 - Thanks to the Fluxus 2025 organizing team at IIT Indore
-- Special thanks to our mentors and judges
 
 ---
 
